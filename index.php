@@ -30,14 +30,14 @@ $img = $image;
 				<video controls autoplay>
       <video width="320" height="240" autoplay>
       <source src="movie.mp4" type="video/mp4">
-      <source src="movie.ogg" type="vi<video width="320" height="240" autoplay>
+      <source src="movie.ogg" type="vi<video width="320" height="240">
       <source src="<?= $img ?>" type="video/mp4">
       <source src="<?= $img ?>" type="video/ogg">
   Your browser deo/ogg">
   Your browser does not support the video tag.
       </video>
 				<button type="submit">
-				<a class="next" href="lol.php">NEXT</a>
+				<a class="next" href="index.php">NEXT</a>
       </button>	
 	</div>		
 	
